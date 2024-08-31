@@ -5,8 +5,6 @@
 
 </h1>
 
- * [Topluluk kanalımız](https://t.me/corenodechat)<br>
- * [Topluluk Twitter](https://twitter.com/corenodeHQ)<br>
  * [Nubit Website](https://alpha.nubit.org/#/)<br>
  * [Discord](https://discord.gg/nubit)<br>
  * [Twitter](https://x.com/Nubit_org)<br>
